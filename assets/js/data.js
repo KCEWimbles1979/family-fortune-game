@@ -38,7 +38,7 @@ const questiondata = [{
       "answer": "Spider",
       "points": 13
     }, {
-      "answer": "Rodent",
+      "answer": "Mouse",
       "points": 4
     }]
   },
@@ -70,16 +70,16 @@ const questiondata = [{
       "answer": "Chocolate",
       "points": 20
     }, {
-      "answer": "Mint Choc Chip",
+      "answer": "Mint",
       "points": 20
     }, {
-      "answer": "Pistachio",
+      "answer": "Caramel",
       "points": 13
     }, {
       "answer": "Strawberry",
       "points": 8
     }, {
-      "answer": "Raspberry Ripple",
+      "answer": "Smurf",
       "points": 6
     }]
   },
@@ -103,84 +103,85 @@ const questiondata = [{
     }]
   },
   {
-    "question": "Name an article of clothing not suitable for the washing machine",
+    "question": "Name a family pet",
     "answers": [{
-      "answer": "Shoe",
+      "answer": "Dog",
       "points": 29
     }, {
-      "answer": "Bra",
+      "answer": "Cat",
       "points": 21
     }, {
-      "answer": "Hat",
+      "answer": "Hamster",
       "points": 16
     }, {
-      "answer": "Coat",
+      "answer": "Rabbit",
       "points": 13
     }, {
-      "answer": "Jumper",
+      "answer": "Fish",
       "points": 10
     }, {
-      "answer": "Suit",
+      "answer": "Bird",
       "points": 9
     }]
   },
   {
-    "question": "Name something people are often chased by in movies",
+    "question": "Name something you sit on",
     "answers": [{
-      "answer": "Monsters",
+      "answer": "Chair",
       "points": 37
     }, {
-      "answer": "Cars",
+      "answer": "Sofa",
       "points": 22
     }, {
-      "answer": "Police",
+      "answer": "Bed",
       "points": 19
     }, {
-      "answer": "Bad Guys",
+      "answer": "Floor",
       "points": 10
     }, {
-      "answer": "Dogs",
+      "answer": "Beanbag",
       "points": 10
     }]
   },
   {
-    "question": "Name something a customer would do to annoy a waitress",
+    "question": "Name something you use in the bathroom",
     "answers": [{
-      "answer": "Send Food Back",
+      "answer": "Toothbrush",
       "points": 40
     }, {
-      "answer": "Not Tip",
+      "answer": "Towel",
       "points": 35
     }, {
-      "answer": "Flirt",
+      "answer": "Shower",
       "points": 6
     }, {
-      "answer": "Snap Fingers",
+      "answer": "Toilet",
       "points": 5
     }, {
-      "answer": "Spill Something",
+      "answer": "Soap",
       "points": 4
     }]
   },
   {
-    "question": "Name an animal you can't fit in a mini cooper",
+    "question": "Name something you would wear in the winter",
     "answers": [{
-      "answer": "Elephant",
+      "answer": "Coat",
       "points": 81
     }, {
-      "answer": "Giraffe",
+      "answer": "Hat",
       "points": 17
     }, {
-      "answer": "Blue Whale",
+      "answer": "Gloves",
       "points": 7
     }, {
-      "answer": "Rhino",
+      "answer": "Boots",
       "points": 5
     }, {
-      "answer": "Hippo",
+      "answer": "Scarf
+          ",
       "points": 5
     }, {
-      "answer": "Horse",
+      "answer": "Jumper",
       "points": 4
     }]
   },
@@ -202,48 +203,48 @@ const questiondata = [{
       "answer": "Basketball",
       "points": 9
     }, {
-      "answer": "Netball",
+      "answer": "Baseball",
       "points": 7
     }]
   },
   {
-    "question": "Name Someone or Something that has fangs",
+    "question": "Name Someone or Something you take to school",
     "answers": [{
-      "answer": "Vampire",
+      "answer": "School bag",
       "points": 34
     }, {
-      "answer": "Snake",
+      "answer": "Books",
       "points": 28
     }, {
-      "answer": "Wolf",
+      "answer": "Water bottle",
       "points": 17
     }, {
-      "answer": "Lion / Tiger",
+      "answer": "Pencil case",
       "points": 12
     }, {
-      "answer": "Werewolf",
+      "answer": "Lunch box",
       "points": 9
     }]
   },
   {
-    "question": "Name a ride you might see at a fun fair",
+    "question": "Name a food you eat for dinner",
     "answers": [{
-      "answer": "Dodgems",
+      "answer": "Chips",
       "points": 50
     }, {
-      "answer": "Ferris Wheel",
+      "answer": "Pasta",
       "points": 32
     }, {
-      "answer": "Waltzer / Tea Cups",
+      "answer": "Pizza",
       "points": 27
     }, {
-      "answer": "Carousel",
+      "answer": "Chicken",
       "points": 17
     }, {
-      "answer": "Rollercoaster",
+      "answer": "Soup",
       "points": 15
     }, {
-      "answer": "Chost Train",
+      "answer": "Curry",
       "points": 7
     }]
   },
